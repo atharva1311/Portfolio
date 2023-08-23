@@ -1,0 +1,28 @@
+.container{
+    text-align: center;
+  font-family: 'Montserrat',sans-serif;
+
+
+}
+h1{
+  font-family: 'Montserrat',sans-serif;
+  text-align: center ;
+
+}
+
+.email{
+   background-color: white;
+  width: 5%;
+  float: left;
+  margin-left: 30px;
+}
+
+.phn{
+    background-color: white;
+  width: 5%;
+  float: left;
+  margin-left: 30px;
+  display: flex;
+  justify-content: left;
+  
+}
